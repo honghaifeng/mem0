@@ -457,6 +457,9 @@ Everything below is OSS-only provider configuration. Skip this entire section wh
 - [Google AI](https://docs.mem0.ai/components/llms/models/google_AI) [OSS]: Use when the LLM is Gemini.
 - [Groq](https://docs.mem0.ai/components/llms/models/groq) [OSS]: Use when the user wants Groq's low-latency inference.
 - [DeepSeek](https://docs.mem0.ai/components/llms/models/deepseek) [OSS]: Use when the LLM is DeepSeek.
+- [Qwen](https://docs.mem0.ai/components/llms/models/qwen) [OSS]: Use when the LLM is Qwen (Alibaba Cloud DashScope).
+- [Zhipu](https://docs.mem0.ai/components/llms/models/zhipu) [OSS]: Use when the LLM is Zhipu AI (GLM).
+- [Moonshot](https://docs.mem0.ai/components/llms/models/moonshot) [OSS]: Use when the LLM is Moonshot (Kimi).
 - [Mistral AI](https://docs.mem0.ai/components/llms/models/mistral_AI) [OSS]: Use when the LLM is Mistral.
 - [MiniMax](https://docs.mem0.ai/components/llms/models/minimax) [OSS]: Use when the LLM is MiniMax.
 - [xAI](https://docs.mem0.ai/components/llms/models/xAI) [OSS]: Use when the LLM is xAI Grok.

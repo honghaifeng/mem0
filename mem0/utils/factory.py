@@ -13,11 +13,11 @@ from mem0.configs.llms.lmstudio import LMStudioConfig
 from mem0.configs.llms.minimax import MinimaxConfig
 from mem0.configs.llms.moonshot import MoonshotConfig
 from mem0.configs.llms.ollama import OllamaConfig
-from mem0.configs.llms.qwen import QwenConfig
-from mem0.configs.llms.zhipu import ZhipuConfig
 from mem0.configs.llms.openai import OpenAIConfig
+from mem0.configs.llms.qwen import QwenConfig
 from mem0.configs.llms.vllm import VllmConfig
 from mem0.configs.llms.xai import XAIConfig
+from mem0.configs.llms.zhipu import ZhipuConfig
 from mem0.configs.rerankers.base import BaseRerankerConfig
 from mem0.configs.rerankers.cohere import CohereRerankerConfig
 from mem0.configs.rerankers.huggingface import HuggingFaceRerankerConfig
